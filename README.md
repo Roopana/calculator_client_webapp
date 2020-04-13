@@ -8,5 +8,6 @@ Synchronized threads to access calculation history of all clients
   
 Java Servlet to build the UI (Running on TomCat Server)
 
-#Screenshot of the UI
-![InitialStage](https://github.com/Roopana/calculator_client_webapp/blob/master/Calc_WebApp.png)
+# Screenshot of the UI
+
+![](https://github.com/Roopana/calculator_client_webapp/blob/master/Calc_WebApp.png)
