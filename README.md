@@ -1,4 +1,4 @@
-# Webpp for Calculator
+# WebApp for Calculator
 Simple Calculator using Java Servlet with shared access to calculation history of clients. The max records to display is capped to 10.
 
 # Concepts Used
